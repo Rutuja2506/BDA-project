@@ -1,0 +1,4 @@
+Spotify Details:
+Email:rmedhekar2698@sdsu.edu
+Client ID: 897620f6dbf74a6083b467f16541350e
+Client Secret d8d15eeb809442d8b7c22f18d6aa725d
