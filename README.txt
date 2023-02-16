@@ -7,3 +7,4 @@ Installation:
 Streamlit,PIL for Image.
 
 Final Report:Project Report pdf
+For detailed information, please read the report pdf
